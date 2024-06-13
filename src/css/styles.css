@@ -44,3 +44,11 @@
   outline: transparent;
   border-color: #4e75ff;
 }
+
+.form {
+  max-width: 250px;
+}
+
+.submit {
+  max-width: 250px;
+}
